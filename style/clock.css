@@ -1,0 +1,11 @@
+.clock {
+    font-family: Helvetica, Arial, Sans-serif;
+    color : #fbcb40;
+    font-weight: 800;
+    font-size: 15em;
+    text-align: center;
+}
+body {
+    background-color: #312d3c;
+}
+
